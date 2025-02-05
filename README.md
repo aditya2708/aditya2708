@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Hadi Wijaya 👋
+# Hi there, I'm Adit 👋
 
 ### About Me
 - 🎓 I’m currently majoring in **Informatics Engineering** at **State Polytechnic of Indramayu**.
